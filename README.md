@@ -25,4 +25,4 @@ Projeto desenvolvido com a Grow Dev. O projeto consiste em uma aplicação onde 
 
 ## Agradecimentos
 
-Agradeço a Grow Dev todo conhecimento passado durante o desenvolvimento do projeto, aprendi muito durante todo o processo.
+Agradeço a Grow Dev todo conhecimento passado durante o desenvolvimento do projeto, aprendi muito durante todo o processo..
